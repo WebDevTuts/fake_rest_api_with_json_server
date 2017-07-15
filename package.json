@@ -4,7 +4,8 @@
   "description": "A tutorial that teaches you how to install fake API using an incredible tool called JSON-Server.",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch db.json"
+    "json:server": "json-server --watch db.json",
+    "json:server:remote": "json-server http://jsonplaceholder.typicode.com/db"
   },
   "author": "Edwin Chen",
   "license": "ISC",

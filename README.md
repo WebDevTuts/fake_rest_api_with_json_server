@@ -5,3 +5,5 @@ In this tutorial, we will learn how to install a fake API using an incredible to
 ### Resources
 - [JSON-Server Github page](https://github.com/typicode/json-server)
 - [Postman app](http://www.getpostman.com/)
+
+![Preview](screenshot.png)

@@ -1,0 +1,12 @@
+{
+  "name": "json_server",
+  "version": "1.0.0",
+  "description": "A tutorial that teaches you how to install fake API using an incredible tool called JSON-Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin Chen",
+  "license": "ISC"
+  }
+}
